@@ -1,0 +1,497 @@
+municipio,IDHM,cob_vegetal_2016,codigo_ibge
+porto alegre,0.805,47.49,4314902
+carlos barbosa,0.796,64.17,4304804
+ipiranga do sul,0.791,8.68,4310462
+três arroios,0.791,35.64,4321634
+lagoa dos três cantos,0.789,7.34,4311270
+garibaldi,0.786,56.02,4308607
+nova araçá,0.785,32.95,4312807
+casca,0.785,22.47,4304903
+santa maria,0.784,47.82,4316907
+ivoti,0.784,62.96,4310801
+horizontina,0.783,10.74,4309605
+caxias do sul,0.782,69.43,4305108
+ijuí,0.781,6.68,4310207
+nova petrópolis,0.78,79.79,4313201
+vista alegre do prata,0.78,55.55,4323606
+bento gonçalves,0.778,56.97,4302105
+nova bréscia,0.778,69.38,4313003
+lajeado,0.778,21.56,4311403
+farroupilha,0.777,57.78,4307906
+victor graeff,0.777,7.46,4323200
+selbach,0.777,4.21,4320305
+sarandi,0.777,15.85,4320107
+passo fundo,0.776,12.93,4314100
+erechim,0.776,21.7,4307005
+marau,0.774,16.31,4311809
+veranópolis,0.773,63.42,4322806
+paraí,0.773,36.93,4314001
+santa cruz do sul,0.773,50.77,4316808
+aratiba,0.772,31.69,4300901
+santo ângelo,0.772,8.26,4317509
+santa rosa,0.769,8.82,4317202
+arroio do meio,0.769,42.75,4301008
+nova boa vista,0.768,10.19,4312955
+três passos,0.768,22.71,4321907
+são marcos,0.768,68.42,4319000
+novo xingu,0.767,11.52,4313466
+encantado,0.767,63.93,4306809
+estrela,0.767,26.43,4307807
+capivari do sul,0.766,25.72,4304671
+carazinho,0.766,8.07,4304705
+nova prata,0.766,46.06,4313300
+santiago,0.766,67.76,4317400
+ibirubá,0.765,6.33,4310009
+guaporé,0.765,55.74,4309407
+colinas,0.765,44.72,4305587
+espumoso,0.765,13.25,4307500
+não-me-toque,0.765,9.97,4312658
+santo antônio do palma,0.764,29.4,4317558
+cerro largo,0.764,12.36,4305207
+rondinha,0.764,11.37,4316204
+gramado,0.764,78.94,4309100
+montauri,0.764,26.65,4312351
+imbé,0.764,31.78,4310330
+são valentim do sul,0.764,57.48,4319711
+fagundes varela,0.763,47.42,4307864
+são pedro do butiá,0.763,8.59,4319372
+barra funda,0.763,6.6,4301958
+são domingos do sul,0.763,38.18,4318051
+boa vista do buricá,0.762,19.99,4302204
+david canabarro,0.762,25.68,4306304
+saldanha marinho,0.762,6.55,4316436
+torres,0.762,26.4,4321501
+vila maria,0.761,20.6,4323408
+panambi,0.761,8.82,4313904
+nova pádua,0.761,58.92,4313086
+campinas do sul,0.76,4.87,4303806
+tapejara,0.76,11.78,4320909
+itaara,0.76,52.68,4310538
+serafina corrêa,0.76,30.93,4320404
+frederico westphalen,0.76,23.88,4308508
+santo antônio do planalto,0.759,11.82,4317756
+nova candelária,0.759,16.07,4313011
+três de maio,0.759,9.4,4321808
+colorado,0.758,8.34,4305603
+picada café,0.758,82.25,4314423
+antônio prado,0.758,59.45,4300802
+guabiju,0.758,27.85,4309258
+vanini,0.757,27.22,4322558
+estância velha,0.757,47.2,4307609
+cachoeirinha,0.757,32.65,4303103
+chapada,0.757,6.63,4305306
+presidente lucena,0.757,65.83,4315149
+vista gaúcha,0.757,23.65,4323705
+dois lajeados,0.757,54.17,4306452
+quinze de novembro,0.756,8.96,4315354
+fortaleza dos valos,0.756,8.6,4308458
+montenegro,0.755,72.36,4312401
+são josé do ouro,0.755,18.88,4318606
+constantina,0.754,11.37,4305801
+flores da cunha,0.754,56.75,4308201
+esteio,0.754,9.44,4307708
+são vendelino,0.754,77.41,4319752
+nicolau vergueiro,0.753,11.07,4312674
+estação,0.753,9.27,4307559
+salvador das missões,0.753,8.86,4316477
+ajuricaba,0.753,4.51,4300208
+westfalia,0.752,61.48,
+severiano de almeida,0.752,35.67,4320602
+monte belo do sul,0.752,55.44,4312385
+sertão,0.751,10.7,4320503
+osório,0.751,52.31,4313508
+feliz,0.75,67.58,4308102
+água santa,0.75,15.29,4300059
+cruz alta,0.75,8.28,4306106
+canoas,0.75,24.08,4304606
+pareci novo,0.749,58.16,4314035
+linha nova,0.749,82.21,4311643
+harmonia,0.749,57.97,4309555
+canela,0.748,67.84,4304408
+são joão do polêsine,0.748,26.83,4318432
+barão,0.748,72.05,4301651
+charqueadas,0.747,30.69,4305355
+alto alegre,0.747,9.21,4300554
+tapera,0.747,6.42,4321006
+teutônia,0.747,45.88,4321451
+são josé do inhacorá,0.747,23.89,4318499
+tucunduva,0.747,7.58,4322103
+condor,0.747,8.71,4305702
+sananduva,0.747,21.32,4316600
+novo hamburgo,0.747,49.27,4313409
+nova bassano,0.747,34.71,4312906
+capitão,0.746,71.27,4304697
+getúlio vargas,0.746,13.43,4308904
+coqueiros do sul,0.746,18.64,4305850
+muçum,0.746,70.76,4312609
+mato leitão,0.746,17.8,4312153
+santa tereza,0.746,72.88,4317251
+bom princípio,0.746,63.12,4302352
+bozano,0.745,4.33,4302584
+campo bom,0.745,36.03,4303905
+coronel barros,0.744,6.98,4305871
+poço das antas,0.744,80.26,4314753
+rio grande,0.744,64.47,4315602
+nova palma,0.744,40.16,4313102
+uruguaiana,0.744,41.02,4322400
+augusto pestana,0.743,6.78,4301503
+sobradinho,0.743,36.07,4320701
+morro reuter,0.743,87.39,4312476
+imigrante,0.743,71.23,4310363
+capão da canoa,0.743,68.97,4304630
+dois irmãos,0.743,66.03,4306403
+silveira martins,0.742,51.76,4320651
+vila flores,0.742,45.63,4323309
+cachoeira do sul,0.742,37.49,4303004
+tio hugo,0.742,14.99,4321469
+nova ramada,0.742,7.65,4313334
+cotiporã,0.741,64.28,4305959
+pejuçara,0.741,6.25,4314308
+são luiz gonzaga,0.741,32.59,4318903
+nova roma do sul,0.741,59.84,4313359
+almirante tamandaré do sul,0.74,14.37,4300471
+alegrete,0.74,62.53,4300406
+arroio do sal,0.74,64.45,4301057
+bagé,0.74,71.85,4301602
+santa clara do sul,0.74,46.31,4316758
+salvador do sul,0.74,70.88,4316501
+nova alvorada,0.74,34.48,4312757
+anta gorda,0.74,53.5,4300703
+vista alegre,0.739,23.15,4323507
+ibiaçá,0.739,14.92,4309803
+são pedro da serra,0.739,65.39,4319356
+catuípe,0.739,6.34,4305009
+santo augusto,0.739,6.37,4317806
+bom retiro do sul,0.739,27.26,4302402
+carlos gomes,0.739,27.16,4304853
+são leopoldo,0.739,48.26,4318705
+pelotas,0.739,50.4,4314407
+taquaruçu do sul,0.739,22.56,4321329
+são sebastião do caí,0.739,49.46,4319505
+humaitá,0.738,8.69,4309704
+campina das missões,0.738,15.61,4303707
+gaurama,0.738,23.34,4308706
+lagoa vermelha,0.738,31.45,4311304
+santo cristo,0.738,19.04,4317905
+guarani das missões,0.737,9.19,4309506
+vale real,0.737,71.54,4322541
+vera cruz,0.737,32.24,4322707
+palmeira das missões,0.737,7.81,4313706
+são borja,0.736,32.45,4318002
+gravataí,0.736,52.45,4309209
+camargo,0.736,21.09,4303558
+nova esperança do sul,0.735,38.16,4313037
+xangri-lá,0.735,57.62,4323804
+alto feliz,0.734,76.29,4300570
+barra do guarita,0.734,21.35,4301859
+união da serra,0.733,45.48,4322350
+gentil,0.733,18.87,4308854
+taquari,0.733,47.72,4321303
+triunfo,0.733,64.74,4322004
+protásio alves,0.733,61.38,4315172
+são jorge,0.732,32.69,4318440
+santo expedito do sul,0.732,18.35,4317954
+chiapetta,0.732,12.64,4305405
+rodeio bonito,0.732,16.76,4315909
+boa vista do incra,0.731,9.81,4302238
+relvado,0.731,67.3,4315453
+soledade,0.731,19.51,4320800
+ilópolis,0.73,60.44,4310306
+guaíba,0.73,56.61,4309308
+mariano moro,0.73,22.11,4312005
+cidreira,0.729,39.88,4305454
+roca sales,0.729,63.05,4315800
+boa vista do sul,0.728,72.2,4302253
+tuparendi,0.728,10.25,4322301
+cândido godói,0.728,11.61,4304309
+ipê,0.728,54.47,4310439
+taquara,0.727,49.33,4321204
+mato castelhano,0.727,17.71,4312138
+coronel pilar,0.727,69.39,4305934
+sant'ana do livramento,0.727,86.46,4317103
+jacutinga,0.726,8.76,4310900
+são martinho,0.726,9.24,4319109
+sapucaia do sul,0.726,52.7,4320008
+santa bárbara do sul,0.725,4.07,4316709
+miraguaí,0.725,16.48,4312302
+ponte preta,0.725,11.9,4314787
+pontão,0.725,9.97,4314779
+são josé do sul,0.725,66.78,4318614
+santa cecília do sul,0.725,20.47,4316733
+ronda alta,0.724,5.62,4316105
+marcelino ramos,0.724,31.93,4311908
+ivorá,0.724,45.72,4310751
+doutor ricardo,0.724,69.44,4306759
+ibiraiaras,0.724,25.84,4309902
+cruzeiro do sul,0.723,21.82,4306205
+vespasiano correa,0.723,42.78,
+seberi,0.723,18.66,4320206
+bom progresso,0.723,13.68,4302378
+porto xavier,0.723,26.57,4315107
+barra do rio azul,0.723,31.98,4301925
+giruá,0.721,7.58,4309001
+vacaria,0.721,46.65,4322509
+igrejinha,0.721,67.55,4310108
+palmitinho,0.72,32.31,4313805
+são valentim,0.72,32.53,4319703
+andré da rocha,0.72,47.65,4300661
+faxinal do soturno,0.72,37.68,4308003
+pinhal,0.72,18.75,4314456
+caibaté,0.719,12.4,4303301
+tramandaí,0.719,44.26,4321600
+barão de cotegipe,0.719,27.6,4301701
+ciríaco,0.719,22.67,4305504
+cruzaltense,0.719,10.31,4306130
+três cachoeiras,0.718,36.67,4321667
+nova santa rita,0.718,54.69,4313375
+tupandi,0.718,68.53,4322251
+engenho velho,0.717,8.53,4306924
+são josé do herval,0.717,69.36,4318465
+viamão,0.717,51.71,4323002
+santo antônio da patrulha,0.717,36.2,4317608
+mato queimado,0.717,6.31,4312179
+eldorado do sul,0.717,39.94,4306767
+ernestina,0.716,8.72,4307054
+júlio de castilhos,0.716,26.54,4311205
+pouso novo,0.715,74.57,4315131
+palmares do sul,0.715,36.34,4313656
+putinga,0.715,65.14,4315206
+glorinha,0.714,40.84,4309050
+mormaço,0.714,17.91,4312427
+canudos do vale,0.713,69.08,4304614
+portão,0.713,71.65,4314803
+itaqui,0.713,30.7,4310603
+venâncio aires,0.712,35.42,4322608
+jaguari,0.712,46.04,4311106
+sede nova,0.712,7.03,4320230
+lindolfo collor,0.712,67.71,4311627
+eugênio de castro,0.712,16.65,4307831
+erebango,0.712,10.81,4306973
+crissiumal,0.712,17.46,4306007
+santa vitória do palmar,0.712,21.52,4317301
+sapiranga,0.711,55.61,4319901
+morrinhos do sul,0.711,47.46,4312443
+barracão,0.71,36.97,4301800
+pinheirinho do vale,0.71,25.68,4314498
+três coroas,0.71,79.83,4321709
+paulo bento,0.71,18.13,4314134
+são pedro do sul,0.709,57.34,4319406
+tupanciretã,0.709,20.57,4322202
+campos borges,0.708,8.97,4304101
+tenente portela,0.708,29.57,4321402
+são sepé,0.708,42.5,4319604
+dom pedrito,0.708,56.63,4306601
+arroio do tigre,0.707,32.12,4301206
+áurea,0.707,16.76,4301552
+jaguarão,0.707,43.62,4311007
+derrubadas,0.707,55.36,4306320
+são josé do hortêncio,0.707,59.65,4318481
+campestre da serra,0.706,57.99,4303673
+paim filho,0.706,32.15,4313607
+novo barreiro,0.706,6.87,4313490
+chuí,0.706,22.35,4305439
+coxilha,0.706,11.18,4305975
+doutor maurício cardoso,0.706,8.36,4306734
+vila lângaro,0.705,9.56,4323358
+caçapava do sul,0.704,83.38,4302808
+parobé,0.704,30.27,4314050
+quaraí,0.704,84.91,4315305
+três palmeiras,0.703,11.89,4321857
+campo novo,0.703,6.57,4304002
+boa vista do cadeado,0.703,11.75,4302220
+entre rios do sul,0.703,22.63,4306957
+caseiros,0.703,28.0,4304952
+muitos capões,0.702,35.91,4312617
+viadutos,0.702,27.78,4322905
+nonoai,0.702,38.43,4312708
+morro redondo,0.702,82.43,4312450
+mariana pimentel,0.701,63.57,4311981
+tabaí,0.701,59.18,4320859
+travesseiro,0.701,67.41,4321626
+centenário,0.701,22.83,4305116
+boqueirão do leão,0.7,60.61,4302451
+cacequi,0.7,60.67,4302907
+ubiretama,0.7,7.69,4322343
+caiçara,0.699,25.44,4303400
+lavras do sul,0.699,80.58,4311502
+são gabriel,0.699,54.24,4318309
+rosário do sul,0.699,69.03,4316402
+alvorada,0.699,40.8,4300604
+brochier,0.699,75.18,4302659
+maximiliano de almeida,0.699,33.32,4312203
+porto mauá,0.698,14.49,4315057
+fazenda vilanova,0.698,26.87,4308078
+passo do sobrado,0.698,37.89,4314076
+candiota,0.698,59.2,4304358
+arroio dos ratos,0.698,67.0,4301107
+dona francisca,0.697,35.73,4306700
+camaquã,0.697,36.96,4303509
+maratá,0.697,74.71,4311791
+cambará do sul,0.697,74.1,4303608
+balneário pinhal,0.696,35.0,4301636
+são jerônimo,0.696,68.04,4318408
+alegria,0.695,14.88,4300455
+tapes,0.695,34.05,4321105
+são joão da urtiga,0.694,29.03,4318424
+tupanci do sul,0.694,22.64,4322186
+arvorezinha,0.694,59.91,4301404
+agudo,0.694,43.59,4300109
+independência,0.693,9.72,4310405
+porto lucena,0.693,20.17,4315008
+senador salgado filho,0.693,4.61,4320321
+rio pardo,0.693,38.19,4315701
+bossoroca,0.692,64.86,4302501
+machadinho,0.692,25.5,4311700
+são paulo das missões,0.692,19.84,4319307
+coqueiro baixo,0.692,69.34,4305835
+arambaré,0.691,19.62,4300851
+iraí,0.691,19.73,4310504
+dom pedro de alcântara,0.691,30.16,4306551
+porto vera cruz,0.69,24.48,4315073
+quatro irmãos,0.689,14.11,4315313
+terra de areia,0.689,74.77,4321436
+nova hartz,0.689,59.96,4313060
+rolador,0.689,18.87,4315958
+sertão santana,0.689,63.89,4320552
+muliterno,0.689,26.35,4312625
+butiá,0.689,49.67,4302709
+tiradentes do sul,0.689,16.77,4321477
+rolante,0.688,64.45,4316006
+roque gonzales,0.688,19.07,4316303
+novo cabrais,0.688,19.94,4313391
+herval,0.687,84.69,4307104
+planalto,0.687,35.54,4314704
+marques de souza,0.687,58.69,4312054
+são lourenço do sul,0.687,45.67,4318804
+aceguá,0.687,58.86,4300034
+trindade do sul,0.687,20.24,4321956
+salto do jacuí,0.687,19.37,4316451
+santo antônio das missões,0.686,60.99,4317707
+general câmara,0.686,50.6,4308805
+jóia,0.686,24.18,4311155
+gramado dos loureiros,0.685,28.97,4309126
+são vicente do sul,0.685,52.75,4319802
+são francisco de paula,0.685,74.96,4318200
+liberato salzano,0.685,35.37,4311601
+erval seco,0.685,33.81,4307302
+maçambará,0.684,36.58,4311718
+toropi,0.683,40.42,4321493
+forquetinha,0.683,53.73,4308433
+sete de setembro,0.683,7.13,4320578
+progresso,0.683,67.07,4315156
+restinga seca,0.683,20.42,
+paverama,0.683,61.64,4314159
+formigueiro,0.682,36.0,4308409
+ametista do sul,0.682,31.03,4300646
+maquiné,0.682,70.96,4311775
+itatiba do sul,0.681,34.59,4310702
+minas do leão,0.681,30.97,4312252
+erval grande,0.681,30.01,4307203
+esmeralda,0.68,46.53,4307401
+entre-ijuís,0.68,18.22,4306932
+araricá,0.679,35.79,4300877
+estrela velha,0.679,26.63,4307815
+pedro osório,0.678,55.63,4314209
+pinhal grande,0.678,26.52,4314472
+sagrada família,0.678,9.69,4316428
+santa maria do herval,0.676,80.52,4316956
+paraíso do sul,0.676,40.45,4314027
+novo tiradentes,0.676,12.19,4313441
+boa vista das missões,0.676,10.36,4302154
+são francisco de assis,0.675,58.95,4318101
+cerro grande,0.674,10.31,4305157
+candelária,0.674,35.32,4304200
+braga,0.674,12.37,4302600
+inhacorá,0.673,6.82,4310413
+capão do cipó,0.672,34.65,4304655
+alecrim,0.672,24.0,4300307
+sentinela do sul,0.671,65.38,4320354
+garruchos,0.671,62.77,4308656
+alpestre,0.671,23.68,4300505
+barra do ribeiro,0.67,32.64,4301909
+dois irmãos das missões,0.67,13.04,4306429
+lagoa bonita do sul,0.67,53.01,4311239
+itati,0.669,87.29,4310652
+pirapó,0.669,47.18,4314555
+arroio do padre,0.669,57.78,4301073
+são miguel das missões,0.667,32.3,4319158
+bom jesus,0.666,75.0,4302303
+faxinalzinho,0.666,24.6,4308052
+quevedos,0.665,40.7,4315321
+coronel bicaco,0.665,5.51,4305900
+itapuca,0.664,39.76,4310579
+são pedro das missões,0.664,7.43,4319364
+mostardas,0.664,29.71,4312500
+floriano peixoto,0.663,31.29,4308250
+são josé dos ausentes,0.663,80.71,4318622
+novo machado,0.663,8.93,4313425
+santa margarida do sul,0.663,52.31,4316972
+vila nova do sul,0.662,65.83,4323457
+jacuizinho,0.662,21.07,4310876
+três forquilhas,0.662,83.08,4321832
+barra do quaraí,0.662,21.89,4301875
+cacique doble,0.662,28.04,4303202
+pinheiro machado,0.661,90.8,4314506
+fontoura xavier,0.661,60.03,4308300
+riozinho,0.661,81.98,4315750
+cerro branco,0.661,55.99,4305132
+capela de santana,0.661,68.81,4304689
+pantano grande,0.661,34.79,4313953
+esperança do sul,0.661,20.72,4307450
+cerro grande do sul,0.66,66.22,4305173
+cristal do sul,0.66,16.43,4306072
+segredo,0.659,35.05,4320263
+piratini,0.658,78.26,4314605
+jaboticaba,0.658,12.42,4310850
+encruzilhada do sul,0.657,69.61,4306908
+tunas,0.657,31.17,4322152
+arroio grande,0.657,33.64,4301305
+itacurubi,0.657,81.95,4310553
+mata,0.656,45.71,4312104
+rio dos índios,0.656,16.46,4315552
+tavares,0.656,52.46,4321352
+vitória das missões,0.655,14.42,4323754
+manoel viana,0.655,47.92,4311759
+dezesseis de novembro,0.654,40.85,4306353
+caraá,0.652,67.72,4304713
+são martinho da serra,0.652,44.95,4319125
+ibarama,0.652,59.98,4309753
+sério,0.652,75.87,4320453
+são josé das missões,0.651,7.46,4318457
+canguçu,0.65,70.16,4304507
+monte alegre dos campos,0.65,70.83,4312377
+barros cassal,0.65,42.71,4302006
+pinhal da serra,0.65,56.1,4314464
+mampituba,0.649,64.6,4311734
+cerrito,0.649,66.88,4305124
+unistalda,0.649,76.28,4322376
+dilermando de aguiar,0.648,53.27,4306379
+vale verde,0.646,45.98,4322525
+são nicolau,0.645,50.49,4319208
+cristal,0.644,53.71,4306056
+hulha negra,0.643,61.7,4309654
+lagoão,0.643,39.61,4311254
+são valério do sul,0.642,18.13,4319737
+pedras altas,0.64,69.83,4314175
+vicente dutra,0.638,14.2,4323101
+ibirapuitã,0.638,18.24,4309951
+capão do leão,0.637,49.83,4304663
+capão bonito do sul,0.637,26.95,4304622
+gramado xavier,0.634,58.07,4309159
+santana da boa vista,0.633,85.66,4317004
+sinimbu,0.631,72.32,4320677
+redentora,0.631,16.84,4315404
+jari,0.631,43.77,4311130
+turuçu,0.629,39.5,4322327
+vale do sol,0.624,50.06,4322533
+amaral ferrador,0.624,68.54,4300638
+são josé do norte,0.623,63.87,4318507
+passa sete,0.622,53.65,4314068
+charrua,0.62,30.22,4305371
+benjamin constant do sul,0.619,41.97,4302055
+chuvisca,0.616,58.01,4305447
+herveiras,0.616,64.61,4309571
+jaquirana,0.614,80.14,4311122
+lajeado do bugre,0.613,5.26,4311429
+barão do triunfo,0.61,73.89,4301750
+dom feliciano,0.587,70.18,4306502

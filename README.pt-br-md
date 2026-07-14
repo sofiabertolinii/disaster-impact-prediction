@@ -1,0 +1,217 @@
+# Predição de Impactos de Desastres Naturais utilizando Machine Learning
+
+Este projeto implementa um workflow de Ciência de Dados para predição dos impactos sociais, econômicos e materiais de desastres naturais no estado do Rio Grande do Sul, Brasil.
+
+O trabalho foi desenvolvido como parte de uma pesquisa em Inteligência Artificial e Ciência de Dados, utilizando técnicas de Engenharia de Atributos (Feature Engineering) e algoritmos de Machine Learning para estimar diferentes tipos de impactos causados por eventos climáticos extremos.
+
+---
+
+## Sobre o Projeto
+
+Nos últimos anos, a frequência e a intensidade dos desastres naturais aumentaram significativamente, tornando cada vez mais importante o desenvolvimento de ferramentas capazes de auxiliar órgãos públicos na tomada de decisão.
+
+Este projeto propõe um workflow iterativo de Ciência de Dados que integra diferentes bases de dados públicas para construir modelos capazes de prever impactos humanos, materiais e financeiros decorrentes de desastres naturais.
+
+O workflow desenvolvido contempla as seguintes etapas:
+
+- Aquisição dos dados
+- Pré-processamento
+- Engenharia de atributos
+- Construção dos datasets
+- Treinamento dos modelos
+- Avaliação dos resultados
+- Análise de importância das variáveis
+
+Foram avaliados cinco algoritmos de Machine Learning:
+
+- Decision Tree
+- Random Forest
+- Logistic Regression
+- Multi-Layer Perceptron (MLP)
+- XGBoost
+
+---
+
+## Fonte dos Dados
+
+A principal fonte de dados utilizada neste projeto é o **Atlas Digital de Desastres no Brasil**, publicado pelo Ministério da Integração e do Desenvolvimento Regional (MIDR).
+
+O Atlas reúne registros oficiais de desastres naturais ocorridos entre **1991 e 2025**, contendo informações como:
+
+- tipo do desastre;
+- município afetado;
+- data do evento;
+- impactos humanos;
+- danos materiais;
+- prejuízos públicos;
+- prejuízos privados.
+
+Além do Atlas, o dataset foi enriquecido com informações provenientes de outras bases oficiais, incluindo:
+
+- IBGE (população e área dos municípios);
+- Índice Oceânico Niño (ONI);
+- classificação dos eventos climáticos (El Niño, La Niña ou Neutral);
+- Índice de Desenvolvimento Humano Municipal (IDH-M);
+- cobertura vegetal;
+- informações sobre bacias hidrográficas.
+
+---
+
+## Engenharia de Atributos
+
+Durante o desenvolvimento foram criadas novas variáveis com o objetivo de melhorar a capacidade preditiva dos modelos.
+
+Entre elas estão:
+
+- Ano
+- Mês
+- Estação do ano
+- Área do município
+- População
+- Representação das bacias hidrográficas
+- Índice Niño 3.4
+- Evento climático
+- IDH-M
+- Cobertura vegetal
+
+Também foram criadas variáveis-alvo relacionadas à severidade dos impactos:
+
+- Classificação dos impactos humanos
+- Classificação dos danos materiais per capita
+- Classificação dos prejuízos públicos per capita
+- Classificação dos prejuízos privados per capita
+
+---
+
+## Configurações dos Experimentos
+
+Foram avaliadas três versões do dataset.
+
+### Versão 1
+
+Representação das bacias hidrográficas utilizando codificação por potência de dois.
+
+### Versão 2
+
+Representação binária das bacias hidrográficas.
+
+### Versão 3
+
+Representação baseada na porcentagem da área municipal pertencente a cada bacia.
+
+Além disso, foram realizados três conjuntos de experimentos:
+
+### Teste 1
+
+- cinco classes;
+- classe 0 representa ausência de impacto;
+- classes 1 a 4 representam os quartis dos valores não nulos.
+
+### Teste 2
+
+- remoção dos registros sem impacto;
+- classificação em quatro níveis de severidade.
+
+### Teste 3
+
+- classificação binária;
+- presença ou ausência de impacto.
+
+---
+
+## Modelos Avaliados
+
+Os seguintes algoritmos foram utilizados:
+
+- Decision Tree
+- Random Forest
+- Logistic Regression
+- Multi-Layer Perceptron
+- XGBoost
+
+Os modelos foram avaliados utilizando:
+
+- Accuracy
+- Precision
+- F1-score
+- Balanced Accuracy
+
+Todos os experimentos utilizaram validação cruzada com **3 folds**.
+
+---
+
+## Principais Resultados
+
+Os experimentos mostraram que:
+
+- o XGBoost apresentou o melhor desempenho médio;
+- Decision Trees obtiveram resultados competitivos, mantendo alta interpretabilidade;
+- a primeira versão do dataset apresentou os melhores resultados entre as três representações avaliadas;
+- o cenário de classificação binária (Teste 3) atingiu aproximadamente **80% de acurácia**.
+
+A análise de importância das variáveis utilizando SHAP mostrou que fatores temporais e climáticos tiveram maior influência sobre as previsões, principalmente:
+
+- Ano do registro;
+- Temperatura do Oceano Pacífico (Niño 3.4);
+- Mês do registro.
+
+---
+
+## Instalação
+
+Clone o repositório:
+
+```bash
+git clone esse repoitório
+```
+
+Acesse a pasta do projeto
+
+Instale todas as dependências do projeto:
+
+```bash
+pip install -r requirements.txt
+```
+
+O arquivo `requirements.txt` reúne todas as bibliotecas necessárias para executar o pré-processamento, treinar os modelos e reproduzir os experimentos desenvolvidos neste projeto.
+
+---
+
+## Dependências
+
+O projeto foi desenvolvido utilizando **Python 3.12**.
+
+Entre as principais bibliotecas utilizadas estão:
+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+
+As versões completas das dependências encontram-se no arquivo `requirements.txt`.
+
+---
+
+## Como Reproduzir os Experimentos
+
+1. Faça o download das bases de dados utilizadas.
+2. Coloque os arquivos na pasta correspondente.
+3. Execute os scripts de pré-processamento.
+4. Execute o modelo desejado.
+5. Analise as métricas obtidas.
+
+Todo o pipeline implementado segue o workflow descrito no artigo associado ao projeto.
+
+---
+
+## Trabalhos Futuros
+
+Como continuidade deste projeto, pretende-se:
+
+- incorporar dados de precipitação acumulada;
+- incluir novas variáveis meteorológicas;
+- integrar atributos geográficos adicionais (altitude, tipo de solo etc.);
+- explorar Redes Neurais em Grafos (Graph Neural Networks) para modelagem espacial;
+- desenvolver modelos espaço-temporais para previsão de impactos.
+
+---
