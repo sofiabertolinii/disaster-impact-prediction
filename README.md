@@ -205,7 +205,7 @@ The experiments reproduce the workflow described in the accompanying paper.
 
 If you use this repository in your research, please cite:
 
-> *A Data Science Workflow for Predicting Natural Disaster Impacts: A Case Study for the State of Rio Grande do Sul, Brazil.*
+> *Uma Análise Comparativa de Algoritmos de Aprendizado de Máquina no Estado do Rio Grande do Sul*, ERAMIA RS 2026
 
 ---
 
